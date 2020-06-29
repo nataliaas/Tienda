@@ -1,0 +1,19 @@
+.rounded-circle{
+    height: 150%;
+    width: 150%;
+}
+.row{
+    padding: 40px 0px 10px 0px;
+    margin: 0;
+    }
+
+h1{
+    margin: 0;
+    }
+p {
+  margin-bottom: 0
+}
+p + p {
+  text-indent: 1.5em;
+  margin-top: 0
+}
